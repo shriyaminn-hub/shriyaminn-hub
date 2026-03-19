@@ -1,16 +1,27 @@
-## Hi there 👋
+[# Hi, I'm Shriya Sharma 👋
 
-<!--
-**shriyaminn-hub/shriyaminn-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Computer Science (AI & ML) — Chandigarh University  
+📍 Himachal Pradesh, India  
+💼 Aspiring Data Analyst | Business Analyst  
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Skills
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Visualization:** Tableau, Power BI
+- **Databases:** MySQL, SQLite
+- **Other:** Excel, Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+*Uploading soon — Real Estate Valuation, Skin Disorder Detection, Fashion Diary App & more*
+
+## 📜 Certifications
+- Google Data Analytics — Coursera
+- Data Analysis with Python — Coursera
+- SQL for Data Science — Coursera
+- Machine Learning — Coursera
+
+## 📬 Connect with me
+📧 sshriya519@gmail.com  
+💼 [LinkedIn]()
+](https://www.linkedin.com/in/shriya-sharma-77572a1b6/)
+
